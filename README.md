@@ -8,6 +8,8 @@ Two files in .csv format (city_data.csv; ride_data.csv) were provided as startin
 ### Challenge Overview
 This challenge encompassed creating a summary DataFrame of the ride-sharing data by city type and a multiple-line graph showcasing the total weekly fares for each city type. I began by downloading the challenge starter code, and by manipulating the data, calculated the following: total rides, total drivers, total fares, average fare per ride, and average fare per driver, for the three city types (rural, suburban, and urban). This data was organized to create a summary dataframe.
 
+After creating the summary dataframe, the original dataframe was reorganized and grouped by date/type to create a pivot table. Finally, the pivot table was 
+
 The final file with the code to alter the data for this challenge is: PyBer_Challenge.ipynb.
 
 ## Results
