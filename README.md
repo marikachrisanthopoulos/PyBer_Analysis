@@ -42,4 +42,4 @@ This final multiple-line chart displays the total fare by city type. As easily r
 Three business suggestions for the CEO based on these results include:
 - Increasing the total number of drivers in both rural and suburban cities; making this change would probably increase the number of rides in both types of cities.
 - Decreasing the rate of fares for rural cities; this change would also probabbly increase the number of rides in rural cities.
-- 
+- Increasing the number of drivers readily available in all cities during the February/March months, when the most rides were completed.
