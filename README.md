@@ -8,12 +8,11 @@ Two files in .csv format (city_data.csv; ride_data.csv) were provided as startin
 ### Challenge Overview
 This challenge encompassed creating a summary DataFrame of the ride-sharing data by city type and a multiple-line graph showcasing the total weekly fares for each city type. I began by downloading the challenge starter code, and by manipulating the data, calculated the following: total rides, total drivers, total fares, average fare per ride, and average fare per driver, for the three city types (rural, suburban, and urban). This data was organized to create a summary dataframe.
 
-After creating the summary dataframe, the original dataframe was reorganized and grouped by date/type to create a pivot table. Finally, the pivot table was 
+After creating the summary dataframe, the original dataframe was reorganized and grouped by date/type to create a pivot table. The pivot table was subsequently edited to display data within the following timeframe (2019-01-01 through 2019-04-29). Finally, a multiple-line chart was created to display the total fare by city type data.
 
 The final file with the code to alter the data for this challenge is: PyBer_Challenge.ipynb.
 
 ## Results
-
 As seeen in the following graphs, there are significant differences in the ride-sharing data between the three types of cities. This first chart indicates that of the three types of cities, urban cities have most rides per city with lower fares; rural cities are the opposite, with fewer rides at higher prices. In addition, the size of the points indicate the number of drivers: urban cities have the most drivers, while rural cities have the fewest.
 
 ![Ride-Sharing Data (2019)](https://github.com/marikachrisanthopoulos/PyBer_Analysis/blob/main/Analysis/Fig1.png)
@@ -34,9 +33,13 @@ Additionally, the percent of total fares, total rides, and total drivers are dis
 
 ![% of Total Drivers by City Type](https://github.com/marikachrisanthopoulos/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
-This final multiple line chart displays the total fare by city type. As easily recognizable by this graph, rural cities have the highest fares per ride, while urban cities have the lowest fares.
+This final multiple-line chart displays the total fare by city type. As easily recognizable by this graph, rural cities have the highest fares per ride, while urban cities have the lowest fares.
 
 ![Total fare by City Type](https://github.com/marikachrisanthopoulos/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
 
 
 ## Summary
+Three business suggestions for the CEO based on these results include:
+- Increasing the total number of drivers in both rural and suburban cities; making this change would probably increase the number of rides in both types of cities.
+- Decreasing the rate of fares for rural cities; this change would also probabbly increase the number of rides in rural cities.
+- 
