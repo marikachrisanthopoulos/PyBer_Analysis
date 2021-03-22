@@ -16,7 +16,6 @@ The final file with the code to alter the data for this challenge is: PyBer_Chal
 
 As seeen in the following graphs, there are significant differences in the ride-sharing data between the three types of cities. This first chart indicates that of the three types of cities, urban cities have most rides per city with lower fares; rural cities are the opposite, with fewer rides at higher prices. In addition, the size of the points indicate the number of drivers: urban cities have the most drivers, while rural cities have the fewest.
 
-**Ride-Sharing Data (2019)**
 ![Ride-Sharing Data (2019)](https://github.com/marikachrisanthopoulos/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
 The following box and whisker plots also showcase this data:
